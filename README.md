@@ -1,13 +1,14 @@
 # About me
 - :man_student: Professor of physics at Louisiana State University. I currently teach:
-  -  Introductory stellar astronomy for non-majors
-  -  Galactic and extragalactic astrophysics for majors
-  -  Graduate binaries and accretion
+  -  ASTR 1102: Introductory stellar astronomy for non-majors
+  -  ASTR 4222: Galactic and extragalactic astrophysics for majors
+  -  ASTR 7742: Graduate binaries and accretion
 - 🔭 I’m currently working on:
   -  JWST observations of black hole X-ray binaries
   -  Preparing for Vera Rubin observations of X-ray binaries with the LSST Transients and Variable Stars Scientific Collaboration
   -  X-ray selected symbiotic stars and symbiotic X-ray binaries
   -  The Galactic Bulge Survey
+  -  Rapid ultraviolet, optical, and infrared observation of X-ray binaries and echo-mapping
 - 🌱 I’m currently learning:
   -  How to use Git
   -  How to do MCMC
