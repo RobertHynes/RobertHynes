@@ -13,7 +13,7 @@
   -  How to use Git
   -  How to do MCMC
   -  How to work with LSST data
-  -  Machine-learning (wishful thinking!)
+  -  Machine-learning
 - 👯 I’m looking to collaborate on:
   -  Multiwavelength observations of X-ray binaries 
 - 📫 How to reach me: Email: rhynes@lsu.edu
