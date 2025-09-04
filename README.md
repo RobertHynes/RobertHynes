@@ -10,11 +10,11 @@
   -  The Galactic Bulge Survey
   -  Rapid ultraviolet, optical, and infrared observation of X-ray binaries and echo-mapping
 - 🌱 I’m currently learning:
-  -  How to use Git
   -  How to do MCMC
   -  How to work with LSST data
   -  Machine-learning
 - 👯 I’m looking to collaborate on:
   -  Multiwavelength observations of X-ray binaries 
 - 📫 How to reach me: Email: rhynes@lsu.edu
+- 🔗 Website: https://roberthynes.github.io/
 - 😄 Pronouns: He/him/his
